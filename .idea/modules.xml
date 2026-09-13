@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EvoagentAll/.idea/EvoagentAll.iml" filepath="$PROJECT_DIR$/../EvoagentAll/.idea/EvoagentAll.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PRreviewerAgent.iml" filepath="$PROJECT_DIR$/.idea/PRreviewerAgent.iml" />
     </modules>
   </component>
